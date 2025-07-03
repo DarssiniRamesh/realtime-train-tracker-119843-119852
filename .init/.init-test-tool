@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/realtime-train-tracker-119843-119852/train_tracking_backend"
+}
